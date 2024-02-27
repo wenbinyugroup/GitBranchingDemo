@@ -1,3 +1,3 @@
 # GitBranchingDemo
 
-Update README
+Update README 1, 2
