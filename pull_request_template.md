@@ -1,5 +1,11 @@
-A reference to a related issue/task in your repository:
+### What does this implement/fix? Explain your change:
+--------------------------------------------------------
 
-A description of the changes proposed in the pull request:
+
+### 📝 Checklist
+--------------------------------------------------------
+- [ ] Tested with Windows 10, 11
+- [ ] No new project warnings (if you have to introduce a new warning, please create a ticket to fix it later)
+- [ ] Unit tests are added!
 
 @duhd1993, @bagla0, @sichenliuPU, @banghuazhao, @wenbinyu-PU, @unitasium
