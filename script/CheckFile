@@ -1,5 +1,5 @@
 #!/bin/bash
-file=../README.md
+file=./README.md
 if [ -e "$file" ]; then
     echo "File exists"
     exit 1
