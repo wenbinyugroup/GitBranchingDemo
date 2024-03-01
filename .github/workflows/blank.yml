@@ -37,6 +37,6 @@ jobs:
           
       # Runs a set of commands using the runners shell
       - name: Try to fail
-        if: ${{ -f BugFile }}
+        if: ${{ -f BugFile.txt }}
         run: |
           exit 1
