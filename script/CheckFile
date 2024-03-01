@@ -1,0 +1,8 @@
+#!/bin/bash
+file=./BugFile.txt
+if [ -e "$file" ]; then
+    echo "File exists"
+    exit 1
+else
+    echo "File does not exist"
+fi
