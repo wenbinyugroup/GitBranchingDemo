@@ -1,7 +1,6 @@
 # GitBranchingDemo
 
-Release version: 1.0.2 (2024030102)
-
+Release version: 2.0 (2024040601)
 
 
 Update README 2024022702 Akshat
